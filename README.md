@@ -1,16 +1,16 @@
-## Hi there 👋
+# Elon Yueng
 
-<!--
-**ElonYueng/ElonYueng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好，我是 Elon。
 
-Here are some ideas to get you started:
+## 背景
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+有数据产品与广告投放经验。
+
+## 当前在做
+
+正在探索 AI 工具、机器学习与投资研究，先自用验证，再看能否沉淀成产品或内容。
+
+## 早期学习项目
+
+- [monster_game](https://github.com/ElonYueng/monster_game)：2019 年 Python 练习小游戏
+- [open-source-cs](https://github.com/ElonYueng/open-source-cs)：2019 年 fork 的计算机科学公开课程清单
