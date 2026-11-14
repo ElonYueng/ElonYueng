@@ -10,3 +10,5 @@ Do not put chat transcripts, personal names, emails, phone numbers, private path
 - `skill-1794384628932`: 停止后台任务勿误伤同伴
 - `skill-1794571025329`: 豆包播客转小红书视频
 - `skill-1794572304950`: 未授权材料先脱敏再分发
+- `skill-1794658689539`: 多助手共用桌面轮流用
+- `skill-1794658697725`: 国内平台登录看网络出口

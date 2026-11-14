@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-14
+- Add 多助手共用桌面轮流用 (`skill-1794658689539`).
+- Add 国内平台登录看网络出口 (`skill-1794658697725`).
+- Update 豆包播客转小红书视频 (`skill-1794571025329`): morning-brief series uses its own voice track, archive step, 4–5 min target, auto-troubleshooting, and stop-and-ask when the podcast feature only returns an investment disclaimer.
+
 ## 2026-11-13
 - Add 豆包播客转小红书视频 (`skill-1794571025329`).
 - Add 未授权材料先脱敏再分发 (`skill-1794572304950`).
