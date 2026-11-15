@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-15
+- Update 豆包播客转小红书视频 (`skill-1794571025329`): add a recording-to-transcript-to-podcast path; do not treat an investment disclaimer as an automatic refusal (scroll and refresh first); over-length is not a reason to withhold an authorized post; if the user asks to publish the generated audio as-is, use the on-topic take and keep the caption to verified facts.
+
 ## 2026-11-14
 - Add 多助手共用桌面轮流用 (`skill-1794658689539`).
 - Add 国内平台登录看网络出口 (`skill-1794658697725`).
