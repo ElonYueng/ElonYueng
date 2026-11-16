@@ -12,3 +12,4 @@ Do not put chat transcripts, personal names, emails, phone numbers, private path
 - `skill-1794572304950`: 未授权材料先脱敏再分发
 - `skill-1794658689539`: 多助手共用桌面轮流用
 - `skill-1794658697725`: 国内平台登录看网络出口
+- `skill-1794831579854`: 地区限制时用本机设备码登录

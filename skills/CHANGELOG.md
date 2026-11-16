@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-16
+- Add 地区限制时用本机设备码登录 (`skill-1794831579854`): when a cloud-computer login is blocked by region, use the official device-code flow; show the code only on screen; confirm the cloud-computer login status before continuing.
+
 ## 2026-11-15
 - Update 豆包播客转小红书视频 (`skill-1794571025329`): add a recording-to-transcript-to-podcast path; do not treat an investment disclaimer as an automatic refusal (scroll and refresh first); over-length is not a reason to withhold an authorized post; if the user asks to publish the generated audio as-is, use the on-topic take and keep the caption to verified facts.
 
